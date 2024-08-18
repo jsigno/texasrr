@@ -62,3 +62,25 @@ export const reviews = [
   },
 ];
 
+export const checklistItems = [
+  {
+    title: "Expert Craftsmanship",
+    description:
+      "With years of experience, we deliver high-quality, reliable roofing solutions that ensure durability and protection for your home or business.",
+  },
+  {
+    title: "Comprehensive Services",
+    description:
+      "From installations and repairs to inspections and maintenance, a full range of services is offered to meet all your roofing needs.",
+  },
+  {
+    title: "Top-Notch Materials",
+    description:
+      "Utilizing only the best materials and advanced techniques, long-lasting results are guaranteed, enhancing the overall value and safety of your property.",
+  },
+  {
+    title: "Customer-Centric Approach",
+    description:
+      "ommitted to exceptional customer service, transparent communication, timely project completion, and personalized solutions ensure complete satisfaction.",
+  },
+];
