@@ -6,6 +6,10 @@ const HeroSection = () => {
     <div className="flex flex-col items-center mt-6 lg:mt-20">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
         TEXAS PREMIER ROOFING
+        <div className="text-lg sm:text-xl lg:text-2xl bg-gradient-to-r from-blue-500 to-blue-800 text-transparent bg-clip-text">
+          {" "}
+          Providing a Premier Experience
+        </div>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
         Lorem Ipsum is simply dummy text of the printing and typesetting
