@@ -84,3 +84,16 @@ export const checklistItems = [
       "ommitted to exceptional customer service, transparent communication, timely project completion, and personalized solutions ensure complete satisfaction.",
   },
 ];
+
+export const socialLinks = [
+  { href: "#", text: "Linkedin" },
+  { href: "#", text: "Twitter" },
+  { href: "#", text: "WhatsApp" },
+];
+
+export const contactLinks = [
+  { href: "#", text: "469-773-9493" },
+  { href: "#", text: "info@txpremierroofing" },
+  { href: "#", text: "4848 Lemmon Ave Suite 100 #760" },
+  { href: "#", text: "Dallas, Tx 75219" },
+];

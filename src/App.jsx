@@ -4,6 +4,7 @@ import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
 import Workflow from "./components/Workflox";
 import Reviews from "./components/Reviews";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
   <Services />
   <Workflow />
   <Reviews />
+  <Footer />
 </>
   );
 };
