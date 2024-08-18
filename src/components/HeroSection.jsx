@@ -12,10 +12,11 @@ const HeroSection = () => {
         </div>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.
+        Family owned and operated out of Dallas, TX. Focusing on quality over
+        quantity, we aim to truly give each project the attention it needs and
+        deserves. Our dedicated team comes with several years, and hundreds of
+        completed projects, of experience. Trust in us to deliver a premier
+        experience and show you just how simple the roofing process can be.
       </p>
       <div className="flex justify-center my-10 text-white">
         <a
