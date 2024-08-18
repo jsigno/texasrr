@@ -93,7 +93,7 @@ export const socialLinks = [
 
 export const contactLinks = [
   { href: "#", text: "469-773-9493" },
-  { href: "#", text: "info@txpremierroofing" },
+  { href: "#", text: "info@txpremierroofing.com" },
   { href: "#", text: "4848 Lemmon Ave Suite 100 #760" },
   { href: "#", text: "Dallas, Tx 75219" },
 ];
